@@ -2,7 +2,7 @@
 
 Hostel management system is a web application that allows users to register/login to their accounts and reserve hostel seats. The application provides these 5 features to the user:
 
-#Installation Setup
+# Installation and Setup
 The application can run with XAMPP on localhost. Configure XAMPP and start the Apache server and MySQL server. Then follow the steps:
 
 Import the hms_database.sql file using phpMyAdmin SQL.
